@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071608845845",
+    "project_id": "bca-whatsapp",
+    "storage_bucket": "bca-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071608845845:android:93c4077fffb60c112f201c",
+        "android_client_info": {
+          "package_name": "com.example.bcawhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071608845845-v6657vl7c57lda500sq2bluuss712m58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgsoTQWxkQ9Sv8d4z5pHH1-cU6IWpAWNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071608845845-v6657vl7c57lda500sq2bluuss712m58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
